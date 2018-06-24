@@ -1,4 +1,4 @@
-Sample Project
+Sample Project Description
 ----------------
 
 This is a sample project to demonstrate git.  My projects will follow this format. All files except this one are blank.
